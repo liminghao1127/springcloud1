@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: SERVICE-PROVIDER
+    name: SERVICE-PROVIDER111
   datasource:
     driverClassName: com.mysql.jdbc.Driver
     password: root
